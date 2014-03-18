@@ -2,7 +2,7 @@
 
 int Reverse(int num_)
 {
-        int inv; inv = 0;
+        int inv = 0;
 
         while (num_ > 0)
         {
